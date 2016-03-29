@@ -1,2 +1,2 @@
 # lin_information
-jqury插件整理
+1、jqury插件整理
