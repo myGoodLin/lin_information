@@ -1,0 +1,9 @@
+1、jsPlumb
+    jsPlumb是一个强大的JavaScript连线库，它可以将html中的元素用箭头、曲线、直线等连接起来，适用于开发Web上的图表、建模工具等。它同时支持jQuery+jQuery UI、MooTools和YUI3这三个JavaScript框架，十分强大。
+    官方地址：https://jsplumbtoolkit.com/
+2、mCustomScrollbar
+    mCustomScrollbar 是个基于 jQuery UI 的自定义滚动条插件，它可以让你灵活的通过 CSS 定义网页的滚动条，并且垂直和水平两个方向的滚动条都可以定义，它通过 Brandon Aaron jquery mouse-wheel plugin 提供了鼠标滚动的支持，并且在滚动的过程中，还可以缓冲滚动使得滚动更加的平滑，还可以自动调整滚动条的位置和定义滚动到的位置等。
+    官方地址：http://manos.malihu.gr/
+3、fullpage
+    fullPage.js是一个基于jQuery的全屏滚动插件，它能够很方便、很轻松的制作出全屏网站。
+    官网地址：http://www.jq22.com/jquery-info1124
